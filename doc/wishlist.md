@@ -2,6 +2,9 @@
 
 * MPD list of web radios
 * IPv6 support
+* Airplay 2
+* Manual "Source selector" (soft buttons)
+* Configurable Equalizer
 
 # Done
 
